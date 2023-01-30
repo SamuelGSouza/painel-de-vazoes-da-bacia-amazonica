@@ -9,10 +9,10 @@ Os datasets utilizados podem ser baixados por meio deste link: https://www.ufrgs
 
 # Imagens do Painel
 ### Imagem 1
-![Imagem 1](images/Captura%20de%20tela%20de%202023-01-29%2022-44-05.png)
+![Captura de tela de 2023-01-29 22-44-05](https://user-images.githubusercontent.com/72769279/215390504-76a1c804-6b87-4604-b0ea-e8818c05e11b.png)
 
 ### Imagem 2
-![Imagem 2](images/Captura%20de%20tela%20de%202023-01-29%2022-44-25.png)
+![Captura de tela de 2023-01-29 22-44-25](https://user-images.githubusercontent.com/72769279/215390552-213f2f53-956d-40a5-953f-2c8b64fc4322.png)
 
 ### Imagem 3
-![Imagem 1](images/Captura%20de%20tela%20de%202023-01-29%2022-44-39.png)
+![Captura de tela de 2023-01-29 22-44-39](https://user-images.githubusercontent.com/72769279/215390569-a5ba45a1-9aa7-4fda-935b-9a985d93ce23.png)
